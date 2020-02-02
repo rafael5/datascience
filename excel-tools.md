@@ -1,3 +1,7 @@
-# Excel tools for data science
+# Excel Tools and Plugins for Data Science
 
-* B4P
+### Python
+* https://www.xlwings.org/reporting
+
+### B4P
+* 
