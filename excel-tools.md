@@ -1,4 +1,4 @@
-# Excel Tools and Plugins for Data Science
+# Excel for Data Science:  Tools and Plugins
 
 ### Python
 * https://www.xlwings.org/reporting
