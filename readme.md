@@ -272,8 +272,9 @@ From @afshinea, @stat110 and @wzchen:
 
 - [Dask (PDF)](https://github.com/rafael5/datascience/blob/master/Big_Data/daskcheatsheet.pdf)
 
-![](https://github.com/rafael5/datascience/blob/master/Big_Data/daskcheatsheet/daskcheatsheet-1.png)
-![](https://github.com/rafael5/datascience/blob/master/Big_Data/daskcheatsheet/daskcheatsheet-2.png)
+![](https://github.com/rafael5/datascience/blob/master/Big_Data/daskcheatsheet-1.png)
+![](https://github.com/rafael5/datascience/blob/master/Big_Data/daskcheatsheet-2.png)
+
 
 ## R
 
@@ -394,11 +395,11 @@ From @afshinea:
 
 - [Recurrent Neural Networks (PDF)](https://github.com/rafael5/datascience/blob/master/Deep_Learning/cheatsheet-recurrent-neural-networks.pdf)
 
-![](https://github.com/rafael5/datascience/blob/master/Deep_Learning/cheatsheet-recurrent-neural-networks/cheatsheet-recurrent-neural-networks-1.png)
-![](https://github.com/rafael5/datascience/blob/master/Deep_Learning/cheatsheet-recurrent-neural-networks/cheatsheet-recurrent-neural-networks-2.png)
-![](https://github.com/rafael5/datascience/blob/master/Deep_Learning/cheatsheet-recurrent-neural-networks/cheatsheet-recurrent-neural-networks-3.png)
-![](https://github.com/rafael5/datascience/blob/master/Deep_Learning/cheatsheet-recurrent-neural-networks/cheatsheet-recurrent-neural-networks-4.png)
-![](https://github.com/rafael5/datascience/blob/master/Deep_Learning/cheatsheet-recurrent-neural-networks/cheatsheet-recurrent-neural-networks-5.png)
+![](https://github.com/rafael5/datascience/blob/master/Deep_Learning/cheatsheet-recurrent-neural-networks-1.png)
+![](https://github.com/rafael5/datascience/blob/master/Deep_Learning/cheatsheet-recurrent-neural-networks-2.png)
+![](https://github.com/rafael5/datascience/blob/master/Deep_Learning/cheatsheet-recurrent-neural-networks-3.png)
+![](https://github.com/rafael5/datascience/blob/master/Deep_Learning/cheatsheet-recurrent-neural-networks-4.png)
+![](https://github.com/rafael5/datascience/blob/master/Deep_Learning/cheatsheet-recurrent-neural-networks-5.png)
 
 - [Tips and Tricks (PDF)](https://github.com/rafael5/datascience/blob/master/Deep_Learning/cheatsheet-deep-learning-tips-tricks.pdf)
 
