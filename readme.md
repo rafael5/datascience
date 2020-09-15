@@ -88,7 +88,8 @@ List of Data Science Cheatsheets to rule the world.
     - [Emacs](https://github.com/rafael5/datascience/blob/master/General/Text_Editors/Emacs/How-to-learn-Emacs-v2-large.pdf)
     - [Git - Atlassian's Cheatsheet](https://github.com/rafael5/datascience/blob/master/General/Git/atlassian-git-cheatsheet.pdf)
     - [DVC](https://github.com/rafael5/datascience/blob/master/General/DVC/DVC_cheatsheet.pdf)
-    - [BASH](https://github.com/rafael5/datascience/blob/master/General/BASH/bash_cheat_sheet.pdf)
+    - [BASH](https://github.com/rafael5/datascience/tree/master/General/bash/bash_cheat_sheet.pdf)
+
 
 - [Data Science Cheatsheet Takeaway](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet.pdf)
 ----------------------------------------
@@ -491,34 +492,28 @@ From @afshinea:
 
 ![](https://raw.githubusercontent.com/FavioVazquez/ds-cheatsheets/master/General/DVC/DVC_cheatsheet.png)
 
-- [BASH (PDF)](https://github.com/rafael5/datascience/blob/master/General/BASH/bash_cheat_sheet.pdf)
-
-![](https://github.com/rafael5/datascience/blob/master/General/BASH/Linux-bash-cheatsheet-pg1.png)
-
-![](https://github.com/rafael5/datascience/blob/master/General/BASH/Linux-bash-cheatsheet-pg2.png)
-
-![](https://github.com/rafael5/datascience/blob/master/General/BASH/Linux-bash-cheatsheet-pg3.png)
-
-![](https://github.com/rafael5/datascience/blob/master/General/BASH/Linux-bash-cheatsheet-pg4.png)
-
-![](https://github.com/rafael5/datascience/blob/master/General/BASH/Linux-bash-cheatsheet-pg5.png)
-
-![](https://github.com/rafael5/datascience/blob/master/General/BASH/Linux-bash-cheatsheet-pg6.png)
+- [BASH (PDF)](https://github.com/rafael5/datascience/tree/master/General/bash/bash_cheat_sheet.pdf)
+![](https://github.com/rafael5/datascience/tree/master/General/bash/Linux-bash-cheatsheet-pg1.png)
+![](https://github.com/rafael5/datascience/tree/master/General/bash/Linux-bash-cheatsheet-pg2.png)
+![](https://github.com/rafael5/datascience/tree/master/General/bash/Linux-bash-cheatsheet-pg3.png)
+![](https://github.com/rafael5/datascience/tree/master/General/bash/Linux-bash-cheatsheet-pg4.png)
+![](https://github.com/rafael5/datascience/tree/master/General/bash/Linux-bash-cheatsheet-pg5.png)
+![](https://github.com/rafael5/datascience/tree/master/General/bash/Linux-bash-cheatsheet-pg6.png)
 
 By @ml874
 
 - [Data Science Cheatsheet (PDF)](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet.pdf)
 
-![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet/data-science-cheatsheet-01.png)
-![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet/data-science-cheatsheet-02.png)
-![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet/data-science-cheatsheet-03.png)
-![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet/data-science-cheatsheet-04.png)
-![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet/data-science-cheatsheet-05.png)
-![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet/data-science-cheatsheet-06.png)
-![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet/data-science-cheatsheet-07.png)
-![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet/data-science-cheatsheet-08.png)
-![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet/data-science-cheatsheet-09.png)
-![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet/data-science-cheatsheet-10.png)
+![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet-01.png)
+![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet-02.png)
+![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet-03.png)
+![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet-04.png)
+![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet-05.png)
+![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet-06.png)
+![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet-07.png)
+![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet-08.png)
+![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet-09.png)
+![](https://github.com/rafael5/datascience/blob/master/General/data-science-cheatsheet-10.png)
 
 
 # Contributors:
