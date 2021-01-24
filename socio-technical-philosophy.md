@@ -20,8 +20,6 @@ __Comparison of Programming Languages__
 * https://en.wikipedia.org/wiki/Programming_language
 * https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
 
-
-
 # Technology and Society
 * https://www.vice.com/en/article/xg8k5d/what-if-technology-belonged-to-the-people
 
@@ -34,7 +32,7 @@ __Comparison of Programming Languages__
 * https://www.interaction-design.org/literature/topics/socio-technical-systems
 * https://en.wikipedia.org/wiki/Social_network
 
-#### Open-source ecosystem
+#### Open-Source Philosophy
 * https://en.wikipedia.org/wiki/Open-source_software
 * https://dzone.com/articles/the-most-important-players-in-the-open-source-ecos
 * https://www.sdxcentral.com/articles/news/google-takes-on-amazon-with-open-source-ecosystem/2019/04/
@@ -42,12 +40,13 @@ __Comparison of Programming Languages__
 * https://www.quora.com/What-is-the-largest-open-source-project-ever
 * https://medium.com/@likid_geimfari/the-list-of-interesting-open-source-projects-2daaa2153f7c
 * https://opensource.com/resources/organizations
+* https://www.openhub.net/
 
-#### Open-source code hub (Github / Gitlab)
+#### Open-Source Software (Github /Gitlab)
 * https://hackernoon.com/githubs-top-100-most-valuable-repositories-out-of-96-million-bb48caa9eb0b
 * https://github.com/lk-geimfari/awesomo
 
-#### GNU/Linux Philosophy
+#### Free/Libre Philosophy (GNU/Linux)
 * https://www.nytimes.com/1989/01/11/business/business-technology-one-man-s-fight-for-free-software.html
 * https://www.gnu.org/philosophy/free-sw.html
 * https://www.gnu.org/philosophy/free-software-even-more-important.html
