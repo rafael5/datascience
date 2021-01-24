@@ -1,4 +1,4 @@
-# History and Philosoph of Computing
+# Sociotechnical History of Computing
 
 ### History of Computers and Computing
 * https://www.livescience.com/20718-computer-history.html
