@@ -1,6 +1,6 @@
-# Data Science Tools
+# Data Science
 
-List of Data Science Tools and Cheatsheets
+Data Science Tools and Cheatsheets
 
 ## Table of Contents
 
